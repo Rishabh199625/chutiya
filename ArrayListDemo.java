@@ -10,8 +10,8 @@ al.add("A");
 al.add("B");
 al.add("K");
 al.add("D");
-al.add("E")
-//al.add(10);
+al.add("E");
+al.add("F");
 System.out.println(al.size());
 al.remove(2);
 System.out.println(al.size());
